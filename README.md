@@ -20,3 +20,12 @@ This system was developed to help students have a clear direction for their futu
 
 ## Installation
 1. Clone the repository:
+
+## Usage
+Use the system to:
+- Set goals
+- Track progress
+- Get recommendations
+
+## Author
+Danica Alvarez
